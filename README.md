@@ -142,7 +142,7 @@ Below, a detailed instructions on how to set everything up is provided.
 - Submit your solution with **Git → Commit → Commit and Push**.  
   - Enter a commit message.  
   - Click **Commit and Push**.
-  - Now GitHub wants to authenticate you. Select authentitacion via **Token**, now a new window where you should enter your token will appear. To create this token, go to GitHub website select your account icon in the top-right –> **Settings** –> **Developer Settings** –> **Personal access tokens** –> **Tokens (classic)** –> **Generate new token** –> add some description, validity deadline, select **repo** and **Generate token**. The token will appear and paste it in your PyCharm.
+  - Now GitHub wants to authenticate you. Select Log In via GitHub. In the browser window that opens, sign in to your GitHub account and click Authorize JetBrains if prompted. Then return to PyCharm and complete the push. If browser authentication does not work, use Log In with Token as an alternative and follow the following token instructions: Select authentitacion via **Token**, now a new window where you should enter your token will appear. To create this token, go to GitHub website select your account icon in the top-right –> **Settings** –> **Developer Settings** –> **Personal access tokens** –> **Tokens (classic)** –> **Generate new token** –> add some description, validity deadline, select **repo** and **Generate token**. The token will appear and paste it in your PyCharm.
 - Verify your changes at:  
   ```
   https://github.com/[your-username]/python-for-data-science
