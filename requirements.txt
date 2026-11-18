@@ -10,6 +10,6 @@ tqdm
 openpyxl
 jinja2
 pydantic
-sqlalchemy
+sqlalchemyqqw
 scikit-learn
 numpy
